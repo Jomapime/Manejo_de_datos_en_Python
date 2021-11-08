@@ -33,3 +33,5 @@ En esta carpeta quedarán a disposición de toda la comunidad los códigos emple
 A continuación encontrará los enlaces para repasar las clases del curso:
 
 Primera sesión: [***Para ver la primera clase da clic acá***](https://unisalleedu.sharepoint.com/:v:/r/sites/ManipulacinyvisualizacindedatosenPython/Shared%20Documents/General/Recordings/Clase%20curso%20Python._20211102_210613.mp4?csf=1&web=1&e=iHygZl)
+
+Segunda sesión: [***Para ver la primera clase da clic acá***](https://unisalleedu.sharepoint.com/:v:/r/sites/ManipulacinyvisualizacindedatosenPython/Shared%20Documents/General/Recordings/Clase%20curso%20Python.-20211104_161108-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?csf=1&web=1&e=5NiykE)
