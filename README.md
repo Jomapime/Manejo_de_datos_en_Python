@@ -37,3 +37,5 @@ Primera sesión: [***Para ver la primera clase da clic acá***](https://unisalle
 Segunda sesión: [***Para ver la segunda clase da clic acá***](https://unisalleedu.sharepoint.com/:v:/r/sites/ManipulacinyvisualizacindedatosenPython/Shared%20Documents/General/Recordings/Clase%20curso%20Python.-20211104_161108-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?csf=1&web=1&e=5NiykE)
 
 Tercera sesión: [***Para ver la tercera clase da clic acá***](https://unisalleedu.sharepoint.com/:v:/r/sites/ManipulacinyvisualizacindedatosenPython/Shared%20Documents/General/Recordings/Clase%20curso%20Python.-20211109_160946-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?csf=1&web=1&e=89Q9zE)
+
+Cuarta sesión: [***Para ver la cuarta clase da clic acá***](https://unisalleedu.sharepoint.com/:v:/r/sites/ManipulacinyvisualizacindedatosenPython/Shared%20Documents/General/Recordings/Clase%20curso%20Python.-20211111_160546-Grabaci%C3%B3n%20de%20la%20reuni%C3%B3n.mp4?csf=1&web=1&e=IatGkd)
